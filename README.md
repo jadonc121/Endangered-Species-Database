@@ -1,4 +1,4 @@
-# U.S. Endangered Species: SQL Exploration
+# Endangered Species: SQL Exploration
 
 _**Early project (2023).** This was a SQL practice project written as one notebook before I moved into industry. I've kept it to show how I started. I now build projects as modular Python code with reproducible data pipelines. See [my current project](https://github.com/jadonc121/causal-inference) for what that looks like._
 
